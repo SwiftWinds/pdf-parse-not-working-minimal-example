@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "description": "vite + react",
+  "repository": "https://github.com/SwiftWinds/pdf-parse-not-working-minimal-example",
   "engines": {
     "node": ">=22",
     "vscode": "^1.93.1"
